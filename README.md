@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1pr8k5y6F6_7WLAT45ZhY1Z3ZuHQpaz9e/view?usp=shari
 # Home Screen UI
 https://i.imgur.com/ocw5sPo.jpg
 
-#When pressing the ad button
+#When pressing the add button
 https://i.imgur.com/1PqeRnF.jpg
 
 #After saving the new Note
