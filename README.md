@@ -1,7 +1,9 @@
 # Notes
 # Android Application to save Notes with Room database layer on top of an SQLite database.
-#Used the DAO to create a clean API for my code.
-#LiveData class to help my app respond to data changes.
+
+Used the DAO to create a clean API for my code.
+
+LiveData class to help my app respond to data changes.
 
 
 
